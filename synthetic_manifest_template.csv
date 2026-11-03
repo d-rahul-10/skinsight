@@ -1,0 +1,3 @@
+image,label,patient_id
+synthetic-not-real/image_a.jpg,class_a,synthetic_patient_1
+synthetic-not-real/image_b.jpg,class_b,synthetic_patient_2

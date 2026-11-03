@@ -1,0 +1,13 @@
+{
+  "output": "models/efficientnet_b0.pth",
+  "architecture": "efficientnet_b0",
+  "epochs": 10,
+  "batch_size": 16,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.01,
+  "seed": 42,
+  "workers": 0,
+  "model_version": "academic-experiment-1",
+  "pretrained": false,
+  "cpu": false
+}
